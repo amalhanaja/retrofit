@@ -38,6 +38,7 @@
     <module>retrofit-converters</module>
     <module>retrofit-mock</module>
     <module>samples</module>
+    <module>retrofit-kotlin</module>
   </modules>
 
   <properties>
